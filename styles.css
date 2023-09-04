@@ -24,4 +24,12 @@ h1 {
     margin: 16px auto;
     
   }
+  
+  .list1 {
+    border: 2px solid black;
+    background-color: blanchedalmond;
 
+  }
+  ul, ol, p {
+    color: brown;
+  }
